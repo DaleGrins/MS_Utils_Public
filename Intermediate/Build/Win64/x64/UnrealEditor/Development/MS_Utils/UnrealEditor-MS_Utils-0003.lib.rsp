@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MS_Utils-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\DG\Documents\Unreal Projects\SPL_Meter\Intermediate\Build\Win64\x64\SPL_MeterEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\DG\Documents\Unreal Projects\SPL_Meter\Plugins\MS_Utils\Intermediate\Build\Win64\x64\UnrealEditor\Development\MS_Utils\Module.MS_Utils.cpp.obj"
+"C:\Users\DG\Documents\Unreal Projects\SPL_Meter\Plugins\MS_Utils\Intermediate\Build\Win64\x64\UnrealEditor\Development\MS_Utils\Default.rc2.res"
+/OUT:"C:\Users\DG\Documents\Unreal Projects\SPL_Meter\Plugins\MS_Utils\Intermediate\Build\Win64\x64\UnrealEditor\Development\MS_Utils\UnrealEditor-MS_Utils-0003.lib"

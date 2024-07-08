@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MS_Utils.cpp.obj": [
+			"CrossfadeByParam.cpp.obj",
+			"EPLightWeight.cpp.obj",
+			"EqualPowerCrossfade.cpp.obj",
+			"MS_Utils.cpp.obj",
+			"SimpleFadeIn.cpp.obj",
+			"SimpleFadeOut.cpp.obj"
+		]
+	}
+}
